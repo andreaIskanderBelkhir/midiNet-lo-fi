@@ -1,0 +1,14 @@
+# Folders
+__pycache__
+checkpoints
+dataset
+output
+logs
+assets
+variables
+
+# File types
+*.midi
+*.mid
+*.npy
+*.pb
